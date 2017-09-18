@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Warena\Source\Repos\Fortune\Fortune\bin\ARM\Release\Upload\Fortune_1.1.2.0_ARM.appx
+SymbolPackage=C:\Users\Warena\Source\Repos\Fortune\Fortune\bin\ARM\Release\Upload\Fortune_1.1.2.0\Fortune_1.1.2.0_ARM.appxsym
+ResourcePack=C:\Users\Warena\Source\Repos\Fortune\Fortune\bin\ARM\Release\Fortune_1.1.2.0_scale-100.appx
+ResourcePack=C:\Users\Warena\Source\Repos\Fortune\Fortune\bin\ARM\Release\Fortune_1.1.2.0_scale-125.appx
+ResourcePack=C:\Users\Warena\Source\Repos\Fortune\Fortune\bin\ARM\Release\Fortune_1.1.2.0_scale-150.appx
+ResourcePack=C:\Users\Warena\Source\Repos\Fortune\Fortune\bin\ARM\Release\Fortune_1.1.2.0_scale-400.appx

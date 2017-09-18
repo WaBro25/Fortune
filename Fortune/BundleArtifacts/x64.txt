@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Warena\Source\Repos\Fortune\Fortune\bin\x64\Release\Fortune_1.1.2.0_x64.appx
+SymbolPackage=C:\Users\Warena\Desktop\FortuneTeller\Fortune_1.1.2.0_Test\Fortune_1.1.2.0_x64.appxsym

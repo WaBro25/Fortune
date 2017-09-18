@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Warena\Pictures\200.png</Source>
+    <SmallTileSource>C:\Users\Warena\Pictures\200.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Warena\Pictures\200.png</MediumTileSource>
+    <WideTileSource>C:\Users\Warena\Pictures\200.png</WideTileSource>
+    <LargeTileSource>C:\Users\Warena\Pictures\200.png</LargeTileSource>
+    <AppIconSource>C:\Users\Warena\Pictures\200.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Warena\Pictures\200.png</SplashScreenSource>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <BadgeLogoSource>C:\Users\Warena\Desktop\badgeLogo.jpg</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\Warena\Pictures\4000.png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
